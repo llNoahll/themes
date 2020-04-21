@@ -1,0 +1,52 @@
+/* Stones */
+/* White Stones */
+.shudan-stone-image.shudan-sign_-1.shudan-random_0 {
+    background-image: url('white/white-01.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_1 {
+    background-image: url('white/white-02.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_2 {
+    background-image: url('white/white-03.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_3 {
+    background-image: url('white/white-04.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_4 {
+    background-image: url('white/white-05.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_5 {
+    background-image: url('white/white-06.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_6 {
+    background-image: url('white/white-07.png');
+}
+.shudan-stone-image.shudan-sign_-1.shudan-random_7 {
+    background-image: url('white/white-08.png');
+}
+
+/* Black Stones */
+.shudan-stone-image.shudan-sign_1.shudan-random_0 {
+    background-image: url('black/black-01.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_1 {
+    background-image: url('black/black-02.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_2 {
+    background-image: url('black/black-03.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_3 {
+    background-image: url('black/black-04.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_4 {
+    background-image: url('black/black-05.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_5 {
+    background-image: url('black/black-06.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_6 {
+    background-image: url('black/black-07.png');
+}
+.shudan-stone-image.shudan-sign_1.shudan-random_7 {
+    background-image: url('black/black-08.png');
+}

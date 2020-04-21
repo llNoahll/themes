@@ -1,0 +1,13 @@
+.shudan-stone-image.shudan-sign_1 {background-image: url('0.png');}
+.shudan-stone-image.shudan-sign_-1 {background-image: url('1.png');}
+.shudan-stone-image.shudan-sign_-1.shudan-random_1 {background-image: url('2.png');}
+.shudan-stone-image.shudan-sign_-1.shudan-random_2 {background-image: url('3.png');}
+.shudan-stone-image.shudan-sign_-1.shudan-random_3 {background-image: url('4.png');}
+.shudan-stone-image.shudan-sign_-1.shudan-random_4 {background-image: url('5.png');}
+.shudan-vertex .shudan-stone {top: 0; left: 0; width: 100%; height: 100%;}
+.shudan-goban {--shudan-board-border-width: 0; --shudan-board-foreground-color: #000;}
+.shudan-goban:not(.shudan-coordinates) {padding: 0;}
+.shudan-goban-image {background-image: url('board1.png');}
+.shudan-vertex:not(.shudan-sign_0) .shudan-shadow {background: none; box-shadow: none;}
+main {background: #f0f0f0 url('background6.png') left top;}
+#goban {box-shadow: none;}
